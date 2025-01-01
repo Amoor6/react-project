@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "4889",
+      "firstName": "Amoor",
+      "lastName": "navasartian",
+      "username": "amoor6",
+      "email": "amoor6navasartian@gmail.com",
+      "dateOfBirth": "2003-01-12",
+      "password": "amoor6"
+    },
+    {
+      "id": "6c1a",
+      "firstName": "Amoor",
+      "lastName": "navasart",
+      "username": "amoor",
+      "email": "amoor6navasartian",
+      "dateOfBirth": "2003-01-12",
+      "password": "amoor"
+    },
+    {
+      "id": "319b",
+      "firstName": "",
+      "lastName": "",
+      "username": "",
+      "email": "",
+      "dateOfBirth": "",
+      "password": ""
+    },
+    {
+      "id": "2b16",
+      "firstName": "amoor",
+      "lastName": "navasartian",
+      "username": "amoorr",
+      "email": "amoor@gmail.com",
+      "dateOfBirth": "2003-01-12",
+      "password": "amoor"
+    }
+  ]
+}
